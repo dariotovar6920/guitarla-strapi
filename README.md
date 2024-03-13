@@ -1,1 +1,1 @@
-# guitarla-atrapi
+# guitarla-strapi
